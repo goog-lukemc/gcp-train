@@ -1,1 +1,1 @@
-# gcp-train
+# go-train
